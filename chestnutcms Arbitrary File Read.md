@@ -11,12 +11,15 @@ Arbitrary File Read
 ChestnutCMS is an enterprise-level content management system with front and back end separation.Before version 1.5.8, the system supported read any file after login. 
 
 1.create a test.txt in the upload directory,content is "aaaa"
+
 ![](https://cdn.jsdelivr.net/gh/Huu1j/Huuj_img@main/img/202510231105579.png)
 
 2.create a test.txt in D:\ ,content is "abc"
+
 ![](https://cdn.jsdelivr.net/gh/Huu1j/Huuj_img@main/img/202510231104395.png)
 
 3.it is normally to read the test.txt in the upload directory
+
 ![](https://cdn.jsdelivr.net/gh/Huu1j/Huuj_img@main/img/202510231102703.png)
 
 4.then we can read the test.txt in D:\
